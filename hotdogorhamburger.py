@@ -11,7 +11,7 @@ IMG_SIZE = 50
 LR = 1e-3
 
 
-MODEL_NAME = 'hamsvshots-{}-{}.model'.format(LR, '6conv-basic-video')
+MODEL_NAME = 'hamsvshots-{}-{}.model'.format(LR, '6conv-basic')
 
 
 def label_img(img):
